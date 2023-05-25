@@ -1,0 +1,17 @@
+# reorganizing the calculator_messages.yml
+
+english:
+  welcome: "Welcome to Calculator! Enter your name:"
+  valid_name: "Make sure to enter a valid name."
+spanish:
+  welcome: "Bienvenido a la calculadora! Entre su nombre:"
+  valid_name: "Asegúrese de entrar un nombre válido."
+
+input1: "Please input a number!"
+invalid_num: "Invalid number, please try again!"
+input2: "Please input another number!"
+invalid_input: "Invalid input, please enter 1, 2, 3, or 4!"
+another_try: "Would you like to perform another calculation? Y to continue, N to exit."
+thanks_exit: "Thanks for using the calculator, hope to see you soon!"
+
+

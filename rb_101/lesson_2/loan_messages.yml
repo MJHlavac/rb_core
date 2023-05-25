@@ -1,0 +1,7 @@
+welcome: "Welcome to the Loan Calculator!"
+loan_amount: "What is the loan amount?"
+apr_rate: "What is the annual interest rate percentage?"
+duration: "What is the loan duration in years?"
+invalid: "Invalid, please enter a valid number and make sure it's greater than zero!"
+another_calculation: "Would you like to perform another calculation? Y to continue."
+goodbye: "Thanks for using the loan calculator!"
